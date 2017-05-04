@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Unfollower</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="clientID">0a287da3421d4bb39a1088fc0458ff97</string>
+    <string name="clientSecret">167d1142471e4fa78582ade1e16ccdfa</string>
+
+</resources>
